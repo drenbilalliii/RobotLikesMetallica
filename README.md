@@ -1,7 +1,7 @@
-# RobotLikesMetallica
+## RobotLikesMetallica
 RobotLikesMetallica is a class where through the class *Desktop* and *Robot* enters youtube and likes the song ***Metallaica Nothing Else Matters***...
 
-# How does it work
+### How does it work
 To make this simple program work , first throught Desktop class we can browse to google as soon as the first thread ends the *RedirectToYoutube* thread starts to run
 . What does the second thread do is in this code below ,as we are seeing here at the beginning we have declared a string which contains the word that it will write,
 then in the run method we declare the robot class where through its help we print each character one by one waiting for 500 milliseconds
