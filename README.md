@@ -1,5 +1,5 @@
 # RobotLikesMetallica
-RobotLikesMetallica is a class where through the class *Desktop* and *Robot* enters youtube and likes the song ***Metallaica Nothing Else Matters***
+RobotLikesMetallica is a class where through the class *Desktop* and *Robot* enters youtube and likes the song ***Metallaica Nothing Else Matters***...
 
 # How does it work
 To make this simple program work , first throught Desktop class we can browse to google as soon as the first thread ends the *RedirectToYoutube* thread starts to run
