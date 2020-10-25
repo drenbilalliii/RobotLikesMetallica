@@ -36,7 +36,8 @@ Then with the mouseMove method we move the mouse to the right location then we m
  The other thread does roughly the same thing where everything has to do with mouse movement and typing.
 # Why did i make it
 I like to experiment with everything I learn even if it is for a small project.
-I was listening to the song nothing else matters when I was teaching the Robot class in java , and i learned that this class is used to generate native system input events. This class uses native system events to control
+I was listening to the song nothing else matters when I was learning the Robot class in java , 
+and i learned that this class is used to generate native system input events. This class uses native system events to control
 the mouse and keyboard.
 So I said to myself why not make it through the Java Programming language to log in
 Yotutube to search for this song and like it
